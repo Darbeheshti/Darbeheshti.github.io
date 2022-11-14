@@ -1,11 +1,9 @@
 # Digital twins for satellite gravity missions
 
-Here's the table of contents:
+This is my first blog.
 
-1. TOC
-{:toc}
 
-## Basic setup
+
 
 
 
