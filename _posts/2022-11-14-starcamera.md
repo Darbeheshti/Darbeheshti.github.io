@@ -1,4 +1,4 @@
-# Finding outliers in GRACE star camera data with deep learning
+# Finding outliers in GRACE star camera data
 
 GRACE star camera data is published in terms of quaternions, and they look like this:
 
